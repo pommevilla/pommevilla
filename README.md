@@ -8,10 +8,10 @@ I'm a bioinformatics PhD student living in Ames, IA. Check out my (still in deve
 * 🎓 Education:
   * 🧬 MS in bioinformatics from Iowa State University (focusing on biodiversity)
   * 📝 BS in mathematics and computer science from California State University, Long Beach
+* ⌨️ Previously: intern at RStudio on the R Markdown team
 
 ### 🛠️ What I'm up to
 
-* ⌨️ Currently interning at RStudio on the R Markdown team! 
 * ☣️ [Predicting Harmful Algal Blooms in Iowa Lakes](https://pommevilla.netlify.app/project/20210823_hab/)
 * 🌽 [Quantifying the Effects of Crop Priming Additions on Nitrogen Fixation Rates](https://pommevilla.netlify.app/project/20210823_icrop_priming/)
 * 🤖 [quarto-render](https://github.com/pommevilla/quarto-render), a Github action to render and publish your Quarto site projects
