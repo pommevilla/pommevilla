@@ -15,8 +15,7 @@ I'm a bioinformatics PhD student living in Ames, IA. Check out my (still in deve
 * ☣️ [Predicting Harmful Algal Blooms in Iowa Lakes](https://pommevilla.netlify.app/project/20210823_hab/)
 * 🌽 [Quantifying the Effects of Crop Priming Additions on Nitrogen Fixation Rates](https://pommevilla.netlify.app/project/20210823_icrop_priming/)
 * 🤖 [quarto-render](https://github.com/pommevilla/quarto-render), a Github action to render and publish your Quarto site projects
-* 😅 Learning TypeScript
-* 😅 Learning Shiny 
+* 😅 Learning TypeScript and Shiny 
 
 ### 🧙‍♂️ Interests
 
