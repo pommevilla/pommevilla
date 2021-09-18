@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm a bioinformatics PhD student living in Ames, IA. Check out my (still in development) [website](https://pommevilla.rbind.io/)! 
+I'm a bioinformatics PhD student living in Ames, IA. Check out my [website](https://pommevilla.rbind.io/)!
 
 ### 🐵 Bio
 
@@ -9,6 +9,7 @@ I'm a bioinformatics PhD student living in Ames, IA. Check out my (still in deve
   * 🧬 MS in bioinformatics from Iowa State University (focusing on biodiversity)
   * 📝 BS in mathematics and computer science from California State University, Long Beach
 * ⌨️ Previously: intern at RStudio on the R Markdown team
+* 📋 Check out [my CV](https://pommevilla.rbind.io/pvcv.pdf) 
 
 ### 🛠️ What I'm up to
 
