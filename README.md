@@ -21,7 +21,7 @@ I'm a bioinformatics PhD student living in Ames, IA. Check out my [website](http
 ### 🧙‍♂️ Interests
 
 * 💻 Data visualization, literate programming, statistics, machine learning, Github Actions
-* 🎮 Magic: the Gathering, fighting games, roguelikes, chess
+* 🎮 Magic: the Gathering, Teamfight Tactics, fighting games, roguelikes, chess
 * 🏃 Table tennis, Olympic weightlifting
 
 
