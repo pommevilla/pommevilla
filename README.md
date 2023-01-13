@@ -16,11 +16,11 @@ I'm a bioinformatics PhD student at Iowa State University. Check out my [website
 * ☣️ [Predicting Harmful Algal Blooms in Iowa Lakes](https://pommevilla.netlify.app/project/20210823_hab/)
 * 🌽 [Quantifying the Effects of Crop Priming Additions on Nitrogen Fixation Rates](https://pommevilla.netlify.app/project/20210823_icrop_priming/)
 * 🤖 [isPCR](https://github.com/pommevilla/ispcr), a lightweight Python package to perform *in silico* PCR to evalaute primer performance (in development)
-* 😅 Learning Shiny and Typescript
+* 😅 Learning React, Shiny, Typescript
 
 ### 🧙‍♂️ Interests
 
-* 💻 Data visualization, CI/CD, literate programming, statistics, machine learning, reproducibility
+* 💻 Data visualization, CI/CD, testing, literate programming, statistics, machine learning, reproducibility
 * 🎮 Magic: the Gathering, Teamfight Tactics, fighting games, roguelikes, chess
 * 🏃 Table tennis, Olympic weightlifting
 
