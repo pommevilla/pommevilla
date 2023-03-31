@@ -20,7 +20,7 @@ I'm a bioinformatics PhD student at Iowa State University. Check out my [website
 
 ### 🧙‍♂️ Interests
 
-* 💻 Data visualization, CI/CD, testing, literate programming, statistics, machine learning, reproducibility
+* 💻 Full-stack data science, CI/CD, testing, literate programming, reproducibility
 * 🎮 Magic: the Gathering, Teamfight Tactics, fighting games, roguelikes, chess
 * 🏃 Table tennis, Olympic weightlifting
 
