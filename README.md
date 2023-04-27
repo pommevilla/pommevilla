@@ -13,7 +13,7 @@ I'm a bioinformatics PhD student at Iowa State University. Check out my [website
 
 ### 🛠️ What I'm up to
 
-* ☣️ [Predicting Harmful Algal Blooms in Iowa Lakes](https://pommevilla.netlify.app/project/20210823_hab/)
+* ☣️ [Predicting Harmful Algal Blooms in Iowa Lakes](https://github.com/pommevilla/one_week_ahead)
 * 🌽 [Quantifying the Effects of Crop Priming Additions on Nitrogen Fixation Rates](https://pommevilla.netlify.app/project/20210823_icrop_priming/)
 * 🤖 [isPCR](https://github.com/pommevilla/ispcr), a lightweight Python package for *in silico* PCR to evaluate primer performance (in development)
 * 😅 Learning Typescript/ReactJS
