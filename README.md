@@ -1,6 +1,6 @@
 ## Hi!
 
-I'm a bioinformatics PhD student at Iowa State University. Check out my [website](https://pommevilla.rbind.io/)!
+I'm a bioinformatics PhD candidate at Iowa State University. Check out my [website](https://pommevilla.rbind.io/)!
 
 ### 🐵 Bio
 
